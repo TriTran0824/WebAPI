@@ -1,0 +1,28 @@
+[
+    {"customerId": 1, "purchaseAmount": 110, "transactionDate": "2023-07-01"},
+    {"customerId": 1, "purchaseAmount": 120, "transactionDate": "2023-07-15"},
+    {"customerId": 1, "purchaseAmount": 250, "transactionDate": "2023-08-05"},
+    {"customerId": 1, "purchaseAmount": 150, "transactionDate": "2023-08-15"},
+    {"customerId": 1, "purchaseAmount": 250, "transactionDate": "2023-09-05"},
+    {"customerId": 1, "purchaseAmount": 250, "transactionDate": "2023-09-05"},
+    {"customerId": 2, "purchaseAmount": 100, "transactionDate": "2023-07-01"},
+    {"customerId": 2, "purchaseAmount": 70, "transactionDate": "2023-07-15"},
+    {"customerId": 2, "purchaseAmount": 60, "transactionDate": "2023-08-05"},
+    {"customerId": 2, "purchaseAmount": 85, "transactionDate": "2023-08-15"},
+    {"customerId": 2, "purchaseAmount": 90, "transactionDate": "2023-09-05"},
+    {"customerId": 2, "purchaseAmount": 95, "transactionDate": "2023-09-05"},
+    {"customerId": 3, "purchaseAmount": 120, "transactionDate": "2023-07-01"},
+    {"customerId": 3, "purchaseAmount": 70, "transactionDate": "2023-07-15"},
+    {"customerId": 3, "purchaseAmount": 60, "transactionDate": "2023-08-05"},
+    {"customerId": 3, "purchaseAmount": 120, "transactionDate": "2023-08-15"},
+    {"customerId": 3, "purchaseAmount": 90, "transactionDate": "2023-09-05"},
+    {"customerId": 3, "purchaseAmount": 150, "transactionDate": "2023-09-05"},
+    {"customerId": 4, "purchaseAmount": 50, "transactionDate": "2023-09-05"},
+    {"customerId": 4, "purchaseAmount": 40, "transactionDate": "2023-07-15"},
+    {"customerId": 4, "purchaseAmount": 45, "transactionDate": "2023-08-05"},
+    {"customerId": 4, "purchaseAmount": 30, "transactionDate": "2023-08-15"},
+    {"customerId": 4, "purchaseAmount": 20, "transactionDate": "2023-09-05"},
+    {"customerId": 4, "purchaseAmount": 40, "transactionDate": "2023-09-05"}
+   ]
+
+

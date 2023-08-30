@@ -16,5 +16,4 @@ public class WebAPIApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(WebAPIApplication.class, args);
 	}
-
 }

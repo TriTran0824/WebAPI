@@ -1,0 +1,17 @@
+<div *ngIf="rewards">
+  <h2>Reward Details</h2>
+  <table class = "table table-bordered">
+    <thead class = "thead-light">
+      <tr>
+        <th>Customer ID</th>
+        <th>Total Reward Points</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr *ngFor="let reward of rewards | keyvalue">
+        <td>{{ reward.key }}</td>
+        <td>{{ reward.value }}</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
