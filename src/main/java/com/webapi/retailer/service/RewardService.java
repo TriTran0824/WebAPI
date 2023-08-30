@@ -1,14 +1,16 @@
 package com.webapi.retailer.service;
 
+import java.util.LinkedHashMap;
+
 /**
  * Service interface that handles business logic of reward-related.
  */
 public interface RewardService {
 
     /*
-     * Calculates the rewards earned by customers based on the provided purchaseAmount.
-     * @param purchaseAmount The purchase amount in double format
-     * @return an int The reward points
+     * Calculates the rewards earned by customers based on the provided transactions.
+     * @param the file name where transactions are stored.
+     * @return A LinkedHashMap containing the total reward points earned by each customer
      */
-    int calculateRewardsForTransaction(double purchaseAmount);
+    LinkedHashMap<Long, Integer> calculateTotalRewards(String fileName);
 }
